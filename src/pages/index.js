@@ -18,7 +18,7 @@ export default function Home() {
       <main className={styles.main}>
        
       <DatePicker />
-        <Button type="primary">Primary Button</Button>
+        <Button type="primary">Primary Button1</Button>
       </main>
     </>
   )
